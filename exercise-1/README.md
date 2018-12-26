@@ -5,4 +5,4 @@ The mission was to make a macro function that can remove unwanted zeros in a Str
 
 For example:
 
-![Drag Racing](Screen Shot 2018-12-26 at 19.29.13.png)
+![example](https://github.com/ofirsteinherz/PlayGround-VBA/blob/master/exercise-1/Screen%20Shot%202018-12-26%20at%2019.29.13.png)
